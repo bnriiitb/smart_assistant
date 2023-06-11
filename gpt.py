@@ -8,7 +8,7 @@ import gradio as gr
 import os
 from sklearn.neighbors import NearestNeighbors
 
-openAI_key = '63f43f34a6944f32b2b734639e41ae9c'
+openAI_key = ''
 
 def download_pdf(url, output_path):
     urllib.request.urlretrieve(url, output_path)
