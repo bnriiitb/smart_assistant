@@ -196,5 +196,4 @@ recommender = SemanticSearch()
 
         # btn.click(question_answer, inputs=[url, file, question,openAI_key], outputs=[answer])
 # openai.api_key = os.getenv('Your_Key_Here') 
-# openai.api_key = '63f43f34a6944f32b2b734639e41ae9c'
 # demo.launch(share=True)
